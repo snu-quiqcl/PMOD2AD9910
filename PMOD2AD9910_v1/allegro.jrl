@@ -1,0 +1,27 @@
+\t (00:00:13) allegro 23.1 S002 Windows SPB 64-bit Edition
+\t (00:00:13)     Journal start - Fri Mar 15 18:48:29 2024
+\t (00:00:13)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=11252 CPUs=20
+\t (00:00:13) CmdLine= C:\Cadence\OrCADX_23.1\tools\bin\allegro.exe
+\t (00:00:13) 
+   (00:00:13) Loading axlcore.cxt 
+\t (00:00:14) Opening existing design...
+\i (00:00:14) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "BH_16PIN"
+\d (00:00:14) Design opened: C:/Jeonghyun/Lab/AD9910_Enclosure/ProfilePCB/BH_16PIN.dra
+\i (00:00:14) trapsize 1767
+\i (00:00:14) trapsize 1814
+\i (00:00:14) trapsize 1863
+\i (00:00:14) trapsize 1814
+\i (00:00:15) trapsize 1617
+\i (00:00:15) trapsize 1725
+\i (00:00:15) generaledit 
+\i (00:00:51) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Start Page"
+\i (00:01:05) open 
+\i (00:02:56) fillin "C:/Jeonghyun/GIT/RFSoC_FrontEnd/Documents/xilinx/xm500-gerber-files-rdf0482/1281021_HW-FMC-XM500_Rev1_0.brd"
+\i (00:02:56) cd "C:/Jeonghyun/GIT/RFSoC_FrontEnd/Documents/xilinx/xm500-gerber-files-rdf0482"
+\i (00:02:56) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "BH_16PIN"
+\t (00:02:56) Opening existing design...
+\i (00:02:56) trapsize 6243
+\i (00:02:56) trapsize 6376
+\i (00:02:56) trapsize 6243
+\i (00:02:56) trapsize 6243
+\t (00:02:56)     Journal end - Fri Mar 15 18:51:12 2024

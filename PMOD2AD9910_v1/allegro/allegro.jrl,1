@@ -1,0 +1,64 @@
+\t (00:00:05) allegro 23.1 S003 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Wed Apr 17 16:59:03 2024
+\t (00:00:05)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=18760 CPUs=20
+\t (00:00:05) CmdLine= C:\Cadence\OrCADX_23.1\tools\bin\allegro.exe
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:08) Opening existing design...
+\i (00:00:08) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged ad9910db
+\d (00:00:08) Design opened: C:/Jeonghyun/Lab/AD9910_Enclosure2/ProfilePCB/allegro/ad9910db.brd
+\i (00:00:08) trapsize 9555
+\i (00:00:08) trapsize 9784
+\i (00:00:08) trapsize 9555
+\i (00:00:09) trapsize 6595
+\i (00:00:09) trapsize 7772
+\t (00:00:09) > Sending response DoneOpenBoard
+\i (00:00:09) generaledit 
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 129.2182 14.5048
+\i (00:00:10) trapsize 3886
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 129.1405 14.2716
+\i (00:00:10) trapsize 1943
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 129.2183 13.1835
+\i (00:00:10) trapsize 971
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 129.2183 13.1642
+\i (00:00:10) trapsize 486
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 129.2378 13.1545
+\i (00:00:11) trapsize 971
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 129.2378 13.1544
+\i (00:00:11) trapsize 486
+\i (00:00:11) roam start
+\i (00:00:11) roam x -16
+\i (00:00:11) roam y 16
+\i (00:00:11) roam x -16
+\i (00:00:11) roam y 16
+\i (00:00:11) roam x -16
+\i (00:00:12) roam y 16
+\i (00:00:12) roam y 16
+\i (00:00:12) roam x -16
+\i (00:00:12) roam x -16
+\i (00:00:12) roam y 16
+\i (00:00:12) roam end
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 128.0337 12.9897
+\i (00:00:12) trapsize 971
+\i (00:00:13) roam start
+\i (00:00:13) roam y 16
+\i (00:00:13) roam x -32
+\i (00:00:13) roam y 16
+\i (00:00:13) roam y 32
+\i (00:00:13) roam end
+\i (00:12:17) exit 
+\t (00:12:17)     Journal end - Wed Apr 17 17:11:15 2024

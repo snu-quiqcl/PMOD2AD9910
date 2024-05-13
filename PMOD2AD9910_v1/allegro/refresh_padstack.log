@@ -1,0 +1,54 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : AD9910DB.brd                                  )
+(    Software Version : 23.1S002                                      )
+(    Date/Time        : Wed Mar 27 17:46:43 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Wed Mar 27 17:46:43 2024				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'C:/Jeonghyun/Lab/AD9910_Enclosure2/ProfilePCB/allegro/AD9910DB.brd'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/SPB_DATA/cdssetup/OrCAD_Capture/23.1.0/downloaded_parts/allegropcb 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           C:/Jeonghyun/Lab/AD9910_Enclosure/ProfilePCB 
+           C:/SPB_DATA/cdssetup/OrCAD_Capture/23.1.0/downloaded_parts/allegropcb 
+
+
+------ Pad Stack Refresh Messages ------
+
+'C030VIA'  pad stack refresh starting.
+
+     'C030VIA'  pad stack refreshed successfully.
+     
+'C102'  pad stack refresh starting.
+
+     'C102'  pad stack refreshed successfully.
+     
+'S225_H150'  pad stack refresh starting.
+
+     'S225_H150'  pad stack refreshed successfully.
+     
+'C240_H160'  pad stack refresh starting.
+
+     'C240_H160'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

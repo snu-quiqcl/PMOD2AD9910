@@ -1,0 +1,186 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 23.1.0 d001Mar-29-2024 at 18:42:11 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='AD9910DB';
+ POST_TIME='Mar  6 2024 20:40:29';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ J1 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@AD9910DB.CONTROLLER(SCH_1):INS30742@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@ad9910db.controller(sch_1):ins30742@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@ad9910db.controller(sch_1):page1_ins30742@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(440,80)',
+ SECTION='';
+
+PART_NAME
+ J10 'HB-PH8-25426PB2GOP_HB-PH8-25426PB2GOP_HB-PH8-25426PB2GOP':;
+
+SECTION_NUMBER 1
+ '@AD9910DB.CONTROLLER(SCH_1):INS24669@HB-PH8-25426PB2GOP.HB-PH8-25426PB2GOP.NORMAL(CHIPS)':
+ C_PATH='@ad9910db.controller(sch_1):ins24669@\hb-ph8-25426pb2gop\.\hb-ph8-25426pb2gop.normal\(chips)',
+ P_PATH='@ad9910db.controller(sch_1):page2_ins24669@\hb-ph8-25426pb2gop\.\hb-ph8-25426pb2gop.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(680,80)',
+ SECTION='';
+
+PART_NAME
+ J11 'XDZ254-2-08-Z-2_5-G1_XDZ254-2-08-Z-2_5-G1_XDZ254-2-08-Z-2_5-G1':;
+
+SECTION_NUMBER 1
+ '@AD9910DB.CONTROLLER(SCH_1):INS34071@XDZ254-2-08-Z-2_5-G1.XDZ254-2-08-Z-2_5-G1.NORMAL(CHIPS)':
+ C_PATH='@ad9910db.controller(sch_1):ins34071@\xdz254-2-08-z-2_5-g1\.\xdz254-2-08-z-2_5-g1.normal\(chips)',
+ P_PATH='@ad9910db.controller(sch_1):page2_ins34071@\xdz254-2-08-z-2_5-g1\.\xdz254-2-08-z-2_5-g1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,250)',
+ SECTION='';
+
+PART_NAME
+ J12 'PH-00064_PH-00064_PH-00064':;
+
+SECTION_NUMBER 1
+ '@AD9910DB.CONTROLLER(SCH_1):INS23507@PH-00064.PH-00064.NORMAL(CHIPS)':
+ C_PATH='@ad9910db.controller(sch_1):ins23507@\ph-00064\.\ph-00064.normal\(chips)',
+ P_PATH='@ad9910db.controller(sch_1):page2_ins23507@\ph-00064\.\ph-00064.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,480)',
+ SECTION='';
+
+PART_NAME
+ J13 'HB-PH8-25426PB2GOP_HB-PH8-25426PB2GOP_HB-PH8-25426PB2GOP':;
+
+SECTION_NUMBER 1
+ '@AD9910DB.CONTROLLER(SCH_1):INS23887@HB-PH8-25426PB2GOP.HB-PH8-25426PB2GOP.NORMAL(CHIPS)':
+ C_PATH='@ad9910db.controller(sch_1):ins23887@\hb-ph8-25426pb2gop\.\hb-ph8-25426pb2gop.normal\(chips)',
+ P_PATH='@ad9910db.controller(sch_1):page3_ins23887@\hb-ph8-25426pb2gop\.\hb-ph8-25426pb2gop.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(230,60)',
+ SECTION='';
+
+PART_NAME
+ J14 'HB-PH8-25426PB2GOP_HB-PH8-25426PB2GOP_HB-PH8-25426PB2GOP':;
+
+SECTION_NUMBER 1
+ '@AD9910DB.CONTROLLER(SCH_1):INS24021@HB-PH8-25426PB2GOP.HB-PH8-25426PB2GOP.NORMAL(CHIPS)':
+ C_PATH='@ad9910db.controller(sch_1):ins24021@\hb-ph8-25426pb2gop\.\hb-ph8-25426pb2gop.normal\(chips)',
+ P_PATH='@ad9910db.controller(sch_1):page3_ins24021@\hb-ph8-25426pb2gop\.\hb-ph8-25426pb2gop.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(490,60)',
+ SECTION='';
+
+PART_NAME
+ J15 'HB-PH8-25426PB2GOP_HB-PH8-25426PB2GOP_HB-PH8-25426PB2GOP':;
+
+SECTION_NUMBER 1
+ '@AD9910DB.CONTROLLER(SCH_1):INS24159@HB-PH8-25426PB2GOP.HB-PH8-25426PB2GOP.NORMAL(CHIPS)':
+ C_PATH='@ad9910db.controller(sch_1):ins24159@\hb-ph8-25426pb2gop\.\hb-ph8-25426pb2gop.normal\(chips)',
+ P_PATH='@ad9910db.controller(sch_1):page3_ins24159@\hb-ph8-25426pb2gop\.\hb-ph8-25426pb2gop.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(230,270)',
+ SECTION='';
+
+PART_NAME
+ J16 'HB-PH8-25426PB2GOP_HB-PH8-25426PB2GOP_HB-PH8-25426PB2GOP':;
+
+SECTION_NUMBER 1
+ '@AD9910DB.CONTROLLER(SCH_1):INS24295@HB-PH8-25426PB2GOP.HB-PH8-25426PB2GOP.NORMAL(CHIPS)':
+ C_PATH='@ad9910db.controller(sch_1):ins24295@\hb-ph8-25426pb2gop\.\hb-ph8-25426pb2gop.normal\(chips)',
+ P_PATH='@ad9910db.controller(sch_1):page3_ins24295@\hb-ph8-25426pb2gop\.\hb-ph8-25426pb2gop.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(490,270)',
+ SECTION='';
+
+PART_NAME
+ J2 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@AD9910DB.CONTROLLER(SCH_1):INS32696@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@ad9910db.controller(sch_1):ins32696@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@ad9910db.controller(sch_1):page1_ins32696@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,80)',
+ SECTION='';
+
+PART_NAME
+ J3 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@AD9910DB.CONTROLLER(SCH_1):INS32229@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@ad9910db.controller(sch_1):ins32229@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@ad9910db.controller(sch_1):page1_ins32229@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(440,160)',
+ SECTION='';
+
+PART_NAME
+ J4 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@AD9910DB.CONTROLLER(SCH_1):INS32849@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@ad9910db.controller(sch_1):ins32849@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@ad9910db.controller(sch_1):page1_ins32849@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,160)',
+ SECTION='';
+
+PART_NAME
+ J5 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@AD9910DB.CONTROLLER(SCH_1):INS32384@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@ad9910db.controller(sch_1):ins32384@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@ad9910db.controller(sch_1):page1_ins32384@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(440,240)',
+ SECTION='';
+
+PART_NAME
+ J6 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@AD9910DB.CONTROLLER(SCH_1):INS33004@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@ad9910db.controller(sch_1):ins33004@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@ad9910db.controller(sch_1):page1_ins33004@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,240)',
+ SECTION='';
+
+PART_NAME
+ J7 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@AD9910DB.CONTROLLER(SCH_1):INS32539@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@ad9910db.controller(sch_1):ins32539@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@ad9910db.controller(sch_1):page1_ins32539@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(440,320)',
+ SECTION='';
+
+PART_NAME
+ J8 'SMA-KE-10_SMA-KE-10_SMA-KE-10':;
+
+SECTION_NUMBER 1
+ '@AD9910DB.CONTROLLER(SCH_1):INS33155@SMA-KE-10.SMA-KE-10.NORMAL(CHIPS)':
+ C_PATH='@ad9910db.controller(sch_1):ins33155@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ P_PATH='@ad9910db.controller(sch_1):page1_ins33155@\sma-ke-10\.\sma-ke-10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,320)',
+ SECTION='';
+
+PART_NAME
+ J9 'XDZ254-2-08-Z-2_5-G1_XDZ254-2-08-Z-2_5-G1_XDZ254-2-08-Z-2_5-G1':;
+
+SECTION_NUMBER 1
+ '@AD9910DB.CONTROLLER(SCH_1):INS33669@XDZ254-2-08-Z-2_5-G1.XDZ254-2-08-Z-2_5-G1.NORMAL(CHIPS)':
+ C_PATH='@ad9910db.controller(sch_1):ins33669@\xdz254-2-08-z-2_5-g1\.\xdz254-2-08-z-2_5-g1.normal\(chips)',
+ P_PATH='@ad9910db.controller(sch_1):page2_ins33669@\xdz254-2-08-z-2_5-g1\.\xdz254-2-08-z-2_5-g1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(520,40)',
+ SECTION='';
+
+END.

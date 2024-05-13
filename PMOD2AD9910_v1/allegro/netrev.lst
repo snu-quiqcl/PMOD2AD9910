@@ -1,0 +1,86 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : ad9910db.brd                                  )
+(    Software Version : 23.1S003                                      )
+(    Date/Time        : Fri Mar 29 18:42:11 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'c:\jeonghyun\lab\ad9910_enclosure2\profilepcb\allegro'
+Design Directory:            'c:/jeonghyun/lab/ad9910_enclosure2/profilepcb/allegro'
+Old design name:             'c:/jeonghyun/lab/ad9910_enclosure2/profilepcb/allegro/ad9910db.brd'
+New design name:             'c:/jeonghyun/lab/ad9910_enclosure2/profilepcb/allegro/ad9910db.brd'
+
+CmdLine: netrev -y 1 -i c:\jeonghyun\lab\ad9910_enclosure2\profilepcb\allegro -q netrev_constraint_report.xml c:/jeonghyun/lab/ad9910_enclosure2/profilepcb/allegro/#Taaaaai23476.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read c:/jeonghyun/lab/ad9910_enclosure2/profilepcb/allegro/pstchip.dat 
+   Finished reading c:/jeonghyun/lab/ad9910_enclosure2/profilepcb/allegro/pstchip.dat (00:00:00.02)
+Starting to read c:/jeonghyun/lab/ad9910_enclosure2/profilepcb/allegro/pstxprt.dat 
+   Finished reading c:/jeonghyun/lab/ad9910_enclosure2/profilepcb/allegro/pstxprt.dat (00:00:00.00)
+Starting to read c:/jeonghyun/lab/ad9910_enclosure2/profilepcb/allegro/pstxnet.dat 
+   Finished reading c:/jeonghyun/lab/ad9910_enclosure2/profilepcb/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/OrCADX_23.1/share/orApps/OrCaptureApp/../../../share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/SPB_DATA/cdssetup/OrCAD_Capture/23.1.0/downloaded_parts/allegropcb 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           C:/Jeonghyun/Lab/AD9910_Enclosure/ProfilePCB 
+           C:/SPB_DATA/cdssetup/OrCAD_Capture/23.1.0/downloaded_parts/allegropcb 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Mar 29 18:42:11 2024
+   DESIGN NAME : 'AD9910DB'
+   PACKAGING ON Mar  6 2024 20:40:29
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:20
+elapsed time  0:00:01
+

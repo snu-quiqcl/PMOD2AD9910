@@ -1,0 +1,37 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [],
+	"Net" : [
+		{
+			"Name" : "SELECT",
+			"C_PATH" : "@ad9910db.controller(sch_1):\\select\\",
+			"Logical" : null,
+			"Physical" : "SELECT"
+		},
+		{
+			"Name" : "FPGA_RESET",
+			"C_PATH" : "@ad9910db.controller(sch_1):fpga_reset",
+			"Logical" : "FPGA_RESET",
+			"Physical" : null
+		}
+	],
+	"Connection" : [
+		{
+			"Name" : "J10.5",
+			"C_PATH" : "@ad9910db.controller(sch_1):ins24669@\\hb-ph8-25426pb2gop\\.\\hb-ph8-25426pb2gop.normal\\(chips):\\5\\",
+			"Logical" : "FPGA_RESET",
+			"Physical" : "SELECT"
+		},
+		{
+			"Name" : "J15.5",
+			"C_PATH" : "@ad9910db.controller(sch_1):ins24159@\\hb-ph8-25426pb2gop\\.\\hb-ph8-25426pb2gop.normal\\(chips):\\5\\",
+			"Logical" : "FPGA_RESET",
+			"Physical" : "SELECT"
+		}
+	]
+}

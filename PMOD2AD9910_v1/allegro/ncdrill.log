@@ -1,0 +1,57 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : ad9910db.brd                                  )
+(    Software Version : 23.1S003                                      )
+(    Date/Time        : Fri Mar 29 18:45:16 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		5.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+
+
+ Drill files being output to directory 'c:/jeonghyun/lab/ad9910_enclosure2/profilepcb/allegro' ...
+
+
+
+     'ad9910db-1-4.drl' created for holes connecting TOP and BOTTOM
+     --------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.   0.3000    0.0000/  0.0000      PLATED         16
+            2.   1.0200    0.0000/  0.0000      PLATED         98
+            3.   1.5011    0.0000/  0.0000      PLATED          8
+            4.   1.6002    0.0000/  0.0000      PLATED         32
+
+     ---- Total holes:                                        154
+
+     ---- Total head travel:              5.54 feet (1.69 meters)
+

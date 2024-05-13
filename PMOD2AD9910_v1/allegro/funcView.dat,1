@@ -1,0 +1,18 @@
+A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_CDS_FSP_UID!FUNC_NO_SWAP_PIN!FUNC_HARD_LOCATION!FUNC_NO_SWAP_GATE_EXT!FUNC_CDS_FSP_MAPPED_CELL!FUNC_CDS_FSP_FPGA_SYMBOL!FUNC_CDS_FSP_TERM_TYPE!FUNC_CDS_FSP_TERM_NAME!FUNC_ROOM!FUNC_GROUP!FUNC_CDS_FSP_TERM_INDEX!FUNC_CDS_FSP_INSTANCE_ID!FUNC_NO_SWAP_GATE!FUNC_NO_XNET_CONNECTION!FUNC_CDS_FSP_IS_FPGA!
+J!C:/Jeonghyun/Lab/AD9910_Enclosure2/ProfilePCB/allegro/ad9910db.brd!Wed Mar 27 19:37:48 2024!-200.0000!-200.0000!333.4000!231.8000!0.0001!millimeters!AD9910DB!28.800000 mil!4!OUT OF DATE!
+S!@ad9910db.controller(sch_1):ins30742@\sma-ke-10\.\sma-ke-10.normal\(chips)!SMA-KE-10_SMA-KE-10_SMA-KE-10!J1!.\chipsView.dat!!!!!!F15!!!!!!!!!!!!!!!!!!
+S!@ad9910db.controller(sch_1):ins32696@\sma-ke-10\.\sma-ke-10.normal\(chips)!SMA-KE-10_SMA-KE-10_SMA-KE-10!J2!.\chipsView.dat!!!!!!F14!!!!!!!!!!!!!!!!!!
+S!@ad9910db.controller(sch_1):ins32229@\sma-ke-10\.\sma-ke-10.normal\(chips)!SMA-KE-10_SMA-KE-10_SMA-KE-10!J3!.\chipsView.dat!!!!!!F13!!!!!!!!!!!!!!!!!!
+S!@ad9910db.controller(sch_1):ins32849@\sma-ke-10\.\sma-ke-10.normal\(chips)!SMA-KE-10_SMA-KE-10_SMA-KE-10!J4!.\chipsView.dat!!!!!!F12!!!!!!!!!!!!!!!!!!
+S!@ad9910db.controller(sch_1):ins32384@\sma-ke-10\.\sma-ke-10.normal\(chips)!SMA-KE-10_SMA-KE-10_SMA-KE-10!J5!.\chipsView.dat!!!!!!F11!!!!!!!!!!!!!!!!!!
+S!@ad9910db.controller(sch_1):ins33004@\sma-ke-10\.\sma-ke-10.normal\(chips)!SMA-KE-10_SMA-KE-10_SMA-KE-10!J6!.\chipsView.dat!!!!!!F10!!!!!!!!!!!!!!!!!!
+S!@ad9910db.controller(sch_1):ins32539@\sma-ke-10\.\sma-ke-10.normal\(chips)!SMA-KE-10_SMA-KE-10_SMA-KE-10!J7!.\chipsView.dat!!!!!!F9!!!!!!!!!!!!!!!!!!
+S!@ad9910db.controller(sch_1):ins33155@\sma-ke-10\.\sma-ke-10.normal\(chips)!SMA-KE-10_SMA-KE-10_SMA-KE-10!J8!.\chipsView.dat!!!!!!F8!!!!!!!!!!!!!!!!!!
+S!@ad9910db.controller(sch_1):ins24669@\hb-ph8-25426pb2gop\.\hb-ph8-25426pb2gop.normal\(chips)!HB-PH8-25426PB2GOP_HB-PH8-25426PB2GOP_HB-PH8-25426PB2GOP!J10!.\chipsView.dat!!!!!!F7!!!!!!!!!!!!!!!!!!
+S!@ad9910db.controller(sch_1):ins23887@\hb-ph8-25426pb2gop\.\hb-ph8-25426pb2gop.normal\(chips)!HB-PH8-25426PB2GOP_HB-PH8-25426PB2GOP_HB-PH8-25426PB2GOP!J13!.\chipsView.dat!!!!!!F6!!!!!!!!!!!!!!!!!!
+S!@ad9910db.controller(sch_1):ins24021@\hb-ph8-25426pb2gop\.\hb-ph8-25426pb2gop.normal\(chips)!HB-PH8-25426PB2GOP_HB-PH8-25426PB2GOP_HB-PH8-25426PB2GOP!J14!.\chipsView.dat!!!!!!F5!!!!!!!!!!!!!!!!!!
+S!@ad9910db.controller(sch_1):ins24159@\hb-ph8-25426pb2gop\.\hb-ph8-25426pb2gop.normal\(chips)!HB-PH8-25426PB2GOP_HB-PH8-25426PB2GOP_HB-PH8-25426PB2GOP!J15!.\chipsView.dat!!!!!!F4!!!!!!!!!!!!!!!!!!
+S!@ad9910db.controller(sch_1):ins24295@\hb-ph8-25426pb2gop\.\hb-ph8-25426pb2gop.normal\(chips)!HB-PH8-25426PB2GOP_HB-PH8-25426PB2GOP_HB-PH8-25426PB2GOP!J16!.\chipsView.dat!!!!!!F3!!!!!!!!!!!!!!!!!!
+S!@ad9910db.controller(sch_1):ins34071@\xdz254-2-08-z-2_5-g1\.\xdz254-2-08-z-2_5-g1.normal\(chips)!XDZ254-2-08-Z-2_5-G1_XDZ254-2-08-Z-2_5-G1_XDZ254-2-08-Z-2_5-G1!J11!.\chipsView.dat!!!!!!F2!!!!!!!!!!!!!!!!!!
+S!@ad9910db.controller(sch_1):ins33669@\xdz254-2-08-z-2_5-g1\.\xdz254-2-08-z-2_5-g1.normal\(chips)!XDZ254-2-08-Z-2_5-G1_XDZ254-2-08-Z-2_5-G1_XDZ254-2-08-Z-2_5-G1!J9!.\chipsView.dat!!!!!!F1!!!!!!!!!!!!!!!!!!
+S!@ad9910db.controller(sch_1):ins23507@\ph-00064\.\ph-00064.normal\(chips)!PH-00064_PH-00064_PH-00064!J12!.\chipsView.dat!!!!!!F0!!!!!!!!!!!!!!!!!!

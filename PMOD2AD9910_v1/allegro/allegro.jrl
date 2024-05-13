@@ -1,0 +1,23 @@
+\t (00:00:05) allegro 23.1 S003 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Wed Apr 17 20:53:20 2024
+\t (00:00:05)         Host=LAPTOP-ETOV1IS0 User=alexi Pid=23100 CPUs=20
+\t (00:00:05) CmdLine= C:\Cadence\OrCADX_23.1\tools\bin\allegro.exe
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged ad9910db
+\d (00:00:06) Design opened: C:/Jeonghyun/Lab/AD9910_Enclosure2/ProfilePCB/allegro/ad9910db.brd
+\i (00:00:06) trapsize 9555
+\i (00:00:06) trapsize 9784
+\i (00:00:06) trapsize 9555
+\i (00:00:06) trapsize 6595
+\i (00:00:06) trapsize 7772
+\t (00:00:06) > Sending response DoneOpenBoard
+\i (00:00:06) generaledit 
+\i (00:00:13) open 
+\i (00:00:25) fillin "C:/Jeonghyun/Lab/RFSoC_FMC3/allegro/fmc_db.brd"
+\i (00:00:25) cd "C:/Jeonghyun/Lab/RFSoC_FMC3/allegro"
+\t (00:00:25) Opening existing design...
+\i (00:00:26) trapsize 3081
+\t (00:00:26) > Sending response DoneOpenBoard
+\t (00:00:26)     Journal end - Wed Apr 17 20:53:41 2024
